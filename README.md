@@ -6,7 +6,7 @@ This is the final project in my last class of my senior year at NYU.
 
 ## The aim of the project is two things:
 
-1. 💻 **Create** a project using machine learning to analyze a dataset
+1. 💻 **Analyze** a dataset using machine learning
 2. 🤖 **Utilize** GitHub Copilot to witness the capabilities of an AI that writes machine learning
 
 # Important Links & Docs
