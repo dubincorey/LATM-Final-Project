@@ -1,4 +1,4 @@
-# Machine Learning with Machine Learning
+# Home Loan Predictor
 
 ## Life Among the Machines: Final Project (IDSEM-UA 2018)
 
